@@ -1,0 +1,36 @@
+{
+  "wscontacts": [
+    {
+      "name": "matheus Baron ",
+      "email": "matheusbaron10@gmail.com",
+      "telephone": "11978035721",
+      "gender": "male",
+      "updated": false,
+      "id": 1
+    },
+    {
+      "name": "dsa",
+      "email": "das",
+      "telephone": "dsa",
+      "gender": "female",
+      "updated": true,
+      "id": 2
+    },
+    {
+      "name": "fdsa",
+      "email": "fdsafdsafsda",
+      "telephone": "fdsafdsafdsa",
+      "gender": "male",
+      "updated": true,
+      "id": 3
+    },
+    {
+      "name": "fdsaf",
+      "email": "fdsa",
+      "telephone": "fdsa",
+      "gender": "male",
+      "updated": false,
+      "id": 4
+    }
+  ]
+}

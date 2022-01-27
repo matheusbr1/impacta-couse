@@ -1,0 +1,20 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "db": "json-server data.json --port 3200"
+  },
+  "keywords": [],
+  "author": "Carrefour Team",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
